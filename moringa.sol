@@ -1,6 +1,8 @@
 Moringa Token hijrahmoringa.com
 support@hijrahmoringa.com
 
+// SPDX-License-Identifier: MIT
+
 Pragma solidity 0.5.16;
 
 interface IBEP20 {
